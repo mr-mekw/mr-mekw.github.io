@@ -1,6 +1,7 @@
 # Mr Mekw's Programming Portfolio
 
 ## Programming II Spring '26
+<p>6 things from class</p>
 
 
 
