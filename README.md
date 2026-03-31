@@ -1,5 +1,5 @@
 # Mr Mekw's Programming Portfolio
-
+<!--
 ## RNG dice roll
 <p></p>
 <img width="1847" height="1123" alt="Screenshot 2025-10-27 134558 // screenshot of a website with 2 input text boxes with 'Minimum:' set to 1 and 'Maximum:' set to 100. The result is 96." src="https://github.com/user-attachments/assets/ad9582d0-edba-4621-9c31-28c0f146cf23" />
@@ -16,3 +16,4 @@
 
 <img width="1843" height="959" alt="Screenshot 2025-12-08 113423 // screenshot of same website with 'Media' tab highlighted." src="https://github.com/user-attachments/assets/9c3c7a3b-8189-423f-bea2-0a13ba5d209b" />
 <p> <a href="https://github.com/mr-mekw/LearningArduino.git">github link to project</a> </p>
+-->
